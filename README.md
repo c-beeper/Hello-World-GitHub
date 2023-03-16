@@ -1,2 +1,5 @@
 # Hello-World-GitHub
-csci3251
+
+Hello, I'm Zhang Xue!
+
+My student number is 1155160250.
