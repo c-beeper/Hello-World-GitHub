@@ -1,5 +1,5 @@
 # Hello-World-GitHub
 
-Hello, I'm Zhang Xue!
+Hello, I'm ###!
 
-My student number is 1155160250.
+My student number is ###.
